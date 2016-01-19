@@ -1,7 +1,7 @@
 # CategoryListView
 The letter Index ListView
 
-## The advantages of this project is simple, and do not need other depend , jar ...
+The advantages of this project is simple, and do not need other depend , jar ...
 
 # Preview
 
